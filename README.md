@@ -1,2 +1,2 @@
 # BasicGames
-create some games 
+create snake game using HTML,CSS,JAVASCRIPT 
