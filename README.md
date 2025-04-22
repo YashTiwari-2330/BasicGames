@@ -4,3 +4,4 @@ create snake game using HTML,CSS,JAVASCRIPT
 <p>CLOSE</p>
 <h1>Hello</h1>
 <h2>How can i help you(dropdown)</h2>
+<h2>How can i help you< (button)</h2>
